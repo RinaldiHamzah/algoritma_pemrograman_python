@@ -1,0 +1,13 @@
+nik,nama,gender,usia,pendidikan,pekerjaan,status,kecamatan,penghasilan
+3201010001,Andi Saputra,L,25,SMA,Karyawan Swasta,Belum Kawin,Ciputat,3500000
+3201010002,Siti Aisyah,P,32,S1,Guru,Kawin,Pamulang,5500000
+3201010003,Budi Santoso,L,45,SMA,Wiraswasta,Kawin,Serpong,7000000
+3201010004,Rina Marlina,P,19,SMA,Mahasiswa,Belum Kawin,Ciputat,5000000
+3201010005,Dedi Kurniawan,L,52,S1,PNS,Kawin,Serpong,8500000
+3201010006,Lina Hartati,P,28,D3,Perawat,Kawin,Pamulang,4800000
+3201010007,Rahmat Hidayat,L,35,SMA,Sopir,Kawin,Ciputat,4000000
+3201010008,Nurul Fitri,P,16,SMP,Pelajar,Belum Kawin,Serpong,
+3201010009,Agus Pratama,L,60,SMA,Pensiunan,Kawin,Pamulang,3000000
+3201010010,Dewi Lestari,P,41,S2,Dosen,Kawin,Ciputat,9000000
+3201010011,Hendra Wijaya,L,22,SMA,Mahasiswa,Belum Kawin,Serpong,4000000
+3201010012,Yuni Kartika,P,29,S1,HRD,Kawin,Pamulang,6000000
